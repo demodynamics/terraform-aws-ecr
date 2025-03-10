@@ -1,4 +1,4 @@
-variable "repo_names" {
+variable "repo_name" {
   type = list(string)
 }
 
